@@ -1,7 +1,5 @@
 body{
     background:#0F2027;
-    background:-webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027) ;
-    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
 }
 
 #join-btn{
@@ -35,12 +33,13 @@ body{
 
 button{
     border:none;
-    background-color: cadetblue;
+    background-color: rgb(71, 71, 71);
     color:#fff;
     padding:10px 20px;
     font-size:16px;
     margin:2px;
     cursor: pointer;
+    border-radius: 2px;
 }
 
 #stream-controls{
